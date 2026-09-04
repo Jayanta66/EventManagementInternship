@@ -25,6 +25,10 @@ export default function Home() {
 
         <p className="eyebrow">Full Stack Event Feedback Management System</p>
         <h1>Full Stack Development Task List</h1>
+              <h2 style={{ color: 'red' }}>Please visit this link below to check the web app (9 AM to 9 PM) :</h2>
+
+        
+              <h2 style={{ color: 'tomato' }}>https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com</h2>
 
                               <p className="lead">Message from Backend: <strong>{message || 'Loading...'}</strong></p>
 
