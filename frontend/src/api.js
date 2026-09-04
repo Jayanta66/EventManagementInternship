@@ -3,8 +3,6 @@
 const API_BASE = 'https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/api'
 export const SERVER_BASE = 'https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com'
 
-//const API_BASE = 'http://localhost:8080/api'
-//export const SERVER_BASE = 'http://localhost:8080'
 
 async function request(url, options = {}) {
   const response = await fetch(`${API_BASE}${url}`, options)
