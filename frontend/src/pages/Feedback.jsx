@@ -29,7 +29,7 @@ export default function Feedback() {
   }
 
   return (
-    <section>
+    <section className="panel">
       <div className="page-heading">
         <div>
           <p className="eyebrow">FEEDBACK</p>

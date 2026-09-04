@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="nav-inner">
-        <NavLink className="brand" to="/">Full Stack Event Feedback Management System</NavLink>
+        <NavLink className="brand" to="https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com/">Full Stack Event Feedback Management System</NavLink>
         <nav>
           <NavLink to="/">Home</NavLink>
           <NavLink to="/events">Events</NavLink>

@@ -52,6 +52,8 @@ export default function EventForm() {
   const submit = async e => {
     e.preventDefault()
     setSaving(true)
+
+
     setError('')
     try {
       await saveEvent(form, id)
@@ -60,6 +62,7 @@ export default function EventForm() {
       setError(e.message)
     } finally {
       setSaving(false)
+      
     }
   }
 
@@ -74,9 +77,7 @@ export default function EventForm() {
         </div>
         <Link className="button secondary" to="/events">Back to Events</Link>
       </div>
-
       {error && <div className="alert error">{error}</div>}
-
       <form className="form-card" onSubmit={submit}>
         <label>
           Event title

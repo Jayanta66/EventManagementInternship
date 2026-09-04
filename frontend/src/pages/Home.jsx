@@ -7,7 +7,7 @@ export default function Home() {
   const [message, setMessage] = useState('');
     useEffect(() => {
       
-    fetch('http://localhost:8080/api/events/welcome')
+    fetch('https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/api/events/welcome')
       .then((response) => response.text())
       .then((data) => setMessage(data))
       .catch((error) => console.error('Error fetching data:', error));
