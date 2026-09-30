@@ -1,7 +1,7 @@
 
 <h1>Full Stack Event Feedback Management System</h1>
 
-<h1>Full Stack Website(This site you may visit from 9 AM to 9 PM . If you are unable to visit due to server down just let me know , i would like to server turn on.):<h1>
+<h1>Full Stack Website(This site you may visit from 9 AM to 9 PM . If you are unable to visit due to server down just let me know , i would like to  turn on the server.):<h1>
 <h1> https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com/</h1>
 
 <h1>Contact : 8910425824</h1>
