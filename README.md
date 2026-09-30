@@ -9,6 +9,15 @@
 <h1>GitHub Project: https://github.com/Jayanta66/EventManagementInternship.git</h1>
 <h1>Full Stack Website: https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com/</h1>
 
+<h1>Internship Details :</h1>
+
+![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/fc94b45fdfdfe2b3cc9b25191b090f14da08d464/ScreenShots/a.png)
+
+
+![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/fc94b45fdfdfe2b3cc9b25191b090f14da08d464/ScreenShots/b.png)
+
+
+
 
 <h1>You may check this web app by using these below End-point : <h1>
 
