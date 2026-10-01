@@ -12,7 +12,7 @@
 <h1>Internship Details :</h1>
 
 
-[internship](https://github.com/Jayanta66/EventManagementInternship/blob/338685032cddf5e96a670a1bca09a184c4113178/ScreenShots/Full%20Stack%20Development%20Task%20List.pdf)
+[Full Stack Development Task List](https://github.com/Jayanta66/EventManagementInternship/blob/338685032cddf5e96a670a1bca09a184c4113178/ScreenShots/Full%20Stack%20Development%20Task%20List.pdf)
 
 
 ![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/fc94b45fdfdfe2b3cc9b25191b090f14da08d464/ScreenShots/a.png)
