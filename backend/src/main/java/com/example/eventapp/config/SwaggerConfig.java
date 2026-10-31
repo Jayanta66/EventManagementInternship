@@ -15,7 +15,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
     public GroupedOpenApi publicApi() {
         return GroupedOpenApi.builder()
                 .group("springshop-public")
-                .pathsToMatch("/**")
+                .pathsToMatch("/**","https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/**","https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/swagger-ui/index.html")
                 .build();
     }
 
