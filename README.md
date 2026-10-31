@@ -47,6 +47,9 @@
 
 ![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/0af2d7fc17d0f3a78b0b8e60c7870f3555e9562f/ScreenShots/14.png)
 
+![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/cbdf4a9842f4ab8cfc4cd483dc188b6ee75988c8/ScreenShots/16.png)
+
+![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/cbdf4a9842f4ab8cfc4cd483dc188b6ee75988c8/ScreenShots/17.png)
 
 
 <h1>https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com/<h1>
