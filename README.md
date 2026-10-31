@@ -32,7 +32,8 @@
 
 ![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/67a0f35cb894a909129aa89bd48bc8781a36b7ba/ScreenShots/15.png)
 
-![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/0af2d7fc17d0f3a78b0b8e60c7870f3555e9562f/ScreenShots/9.png)
+
+![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/0af2d7fc17d0f3a78b0b8e60c7870f3555e9562f/ScreenShots/8.png)
 
 ![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/0af2d7fc17d0f3a78b0b8e60c7870f3555e9562f/ScreenShots/10.png)
 
