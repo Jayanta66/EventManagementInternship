@@ -28,9 +28,10 @@
 
 <h1>Swagger UI :</h1>
 
+<h1>https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/swagger-ui/index.html</h1>
+
 ![image alt](https://github.com/Jayanta66/EventManagementInternship/blob/67a0f35cb894a909129aa89bd48bc8781a36b7ba/ScreenShots/15.png)
 
-<h1>https://fullstack-web-app-developed-by-jayanta-db.joyjagatbondu.com/swagger-ui/index.html</h1>
 
 <h1>https://fullstack-web-app-developed-by-jayanta.joyjagatbondu.com/<h1>
 
